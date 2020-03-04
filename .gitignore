@@ -1,0 +1,13 @@
+*
+!.gitignore
+!mods
+!config
+!scripts
+!mods/*
+!config/*
+!config/**/*
+!scripts/*
+mods/VivecraftForgeExtensions-1.12.2-0.2.4.13.jar
+mods/marytts-runtime-5.2-jar-for-computronics.jar
+mods/AoA3-3.2.4.jar
+mods/ImmersiveRailroading-1.7.2_1.12.2.jar
